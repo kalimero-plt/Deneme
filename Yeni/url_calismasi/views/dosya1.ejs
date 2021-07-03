@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"><!--Charset özelliği HTML belgesinin karakter kodlamasını belirtir.-->
+		<title>Url Kısaltma</title><!--Başlık "Url Kısaltma" yapıldı-->
+	</head>
+	<body>
+		<h3>Kısaltılmış URL'niz</h3><!--h3 tag i ile "Kısaltılmış URL'niz" yazıldı.-->
+		<form action="/login" ><!--form oluşturuldu-->
+			<div>
+				<input type="text" id="url" name="isim" value="<%- kisaltilmis_url %>"><!--Girilecek verinin tipi "text" ayarlandı. Name kısmıda "isim",id kısmı "url" olarak ayarlandı. 
+																						Value kısmı merhaba.js dosyasından gönderilecek olan verinin eklenmesi için "<%- kisaltilmis_url %>" yazıldı.-->
+			</div>
+		</form>
+	</body>
+</html>

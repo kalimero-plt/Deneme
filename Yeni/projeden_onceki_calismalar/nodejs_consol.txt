@@ -1,0 +1,263 @@
+Microsoft Windows [Version 10.0.17134.885]
+(c) 2018 Microsoft Corporation. Tüm haklarý saklýdýr.
+
+C:\Users\asus>cd desktop
+
+C:\Users\asus\Desktop>cd Yeni
+
+C:\Users\asus\Desktop\Yeni>node express.js
+C:\Users\asus\Desktop\Yeni\node_modules\depd\index.js:399
+    throw new TypeError('argument fn must be a function')
+    ^
+
+TypeError: argument fn must be a function
+    at Function.wrapfunction [as function] (C:\Users\asus\Desktop\Yeni\node_modules\depd\index.js:399:11)
+    at populateConstructorExports (C:\Users\asus\Desktop\Yeni\node_modules\http-errors\index.js:264:45)
+    at Object.<anonymous> (C:\Users\asus\Desktop\Yeni\node_modules\http-errors\index.js:30:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Module.require (internal/modules/cjs/loader.js:683:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (C:\Users\asus\Desktop\Yeni\node_modules\send\index.js:15:19)
+
+C:\Users\asus\Desktop\Yeni>node express.js
+C:\Users\asus\Desktop\Yeni\node_modules\depd\index.js:399
+    throw new TypeError('argument fn must be a function')
+    ^
+
+TypeError: argument fn must be a function
+    at Function.wrapfunction [as function] (C:\Users\asus\Desktop\Yeni\node_modules\depd\index.js:399:11)
+    at populateConstructorExports (C:\Users\asus\Desktop\Yeni\node_modules\http-errors\index.js:264:45)
+    at Object.<anonymous> (C:\Users\asus\Desktop\Yeni\node_modules\http-errors\index.js:30:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Module.require (internal/modules/cjs/loader.js:683:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (C:\Users\asus\Desktop\Yeni\node_modules\send\index.js:15:19)
+
+C:\Users\asus\Desktop\Yeni>node express.js
+C:\Users\asus\Desktop\Yeni\node_modules\depd\index.js:399
+    throw new TypeError('argument fn must be a function')
+    ^
+
+TypeError: argument fn must be a function
+    at Function.wrapfunction [as function] (C:\Users\asus\Desktop\Yeni\node_modules\depd\index.js:399:11)
+    at populateConstructorExports (C:\Users\asus\Desktop\Yeni\node_modules\http-errors\index.js:264:45)
+    at Object.<anonymous> (C:\Users\asus\Desktop\Yeni\node_modules\http-errors\index.js:30:1)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:643:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:556:12)
+    at Module.require (internal/modules/cjs/loader.js:683:19)
+    at require (internal/modules/cjs/helpers.js:16:16)
+    at Object.<anonymous> (C:\Users\asus\Desktop\Yeni\node_modules\send\index.js:15:19)
+
+C:\Users\asus\Desktop\Yeni>node express.js
+sunucu calisiyor
+^C
+C:\Users\asus\Desktop\Yeni>node express.js
+sunucu calisiyor
+^C
+C:\Users\asus\Desktop\Yeni>node express.js
+sunucu calisiyor
+^C
+C:\Users\asus\Desktop\Yeni>node express.js
+sunucu calisiyor
+^C
+C:\Users\asus\Desktop\Yeni>node express.js
+sunucu calisiyor
+
+
+^C
+C:\Users\asus\Desktop\Yeni>node express.js
+sunucu calisiyor
+{
+        "k1" :{
+                 "isim" : "Ali Demir",
+                 "sifre" :123,
+                 "email" :"abc@xyz.com"
+        },
+        "k2" :{
+                 "isim" : "Veli Damar",
+                 "sifre" :456,
+                 "email" :"veli_damar@xfg.com"
+        }
+}
+^C
+C:\Users\asus\Desktop\Yeni>node express.js
+sunucu calisiyor
+{
+        "k1" :{
+                 "isim" : "Ali Demir",
+                 "sifre" :123,
+                 "email" :"abc@xyz.com"
+        },
+        "k2" :{
+                 "isim" : "Veli Damar",
+                 "sifre" :456,
+                 "email" :"veli_damar@xfg.com"
+        }
+}
+^C
+C:\Users\asus\Desktop\Yeni>node express.js
+sunucu calisiyor
+{
+        "k1" :{
+                 "isim" : "Ali Demir",
+                 "sifre" :123,
+                 "email" :"abc@xyz.com"
+        },
+        "k2" :{
+                 "isim" : "Veli Damar",
+                 "sifre" :456,
+                 "email" :"veli_damar@xfg.com"
+        }
+}
+^C
+C:\Users\asus\Desktop\Yeni>node express.js
+sunucu calisiyor
+{ k1: { isim: 'Ali Demir', sifre: 123, email: 'abc@xyz.com' },
+  k2:
+   { isim: 'Veli Damar', sifre: 456, email: 'veli_damar@xfg.com' },
+  k3:
+   { isim: 'ahmet demir', sifre: 777, email: 'ahmet@demir.com' } }
+_http_outgoing.js:690
+      throw new ERR_INVALID_ARG_TYPE('chunk', ['string', 'Buffer'], chunk);
+      ^
+
+TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be one of type string or Buffer. Received type object
+    at ServerResponse.end (_http_outgoing.js:690:13)
+    at C:\Users\asus\Desktop\Yeni\express.js:31:7
+    at FSReqWrap.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
+
+C:\Users\asus\Desktop\Yeni>node express.js
+C:\Users\asus\Desktop\Yeni\express.js:31
+                res.end(JSON.stringify(data);
+                                           ^
+
+SyntaxError: missing ) after argument list
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:829:12)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+
+C:\Users\asus\Desktop\Yeni>node express.js
+C:\Users\asus\Desktop\Yeni\express.js:31
+                res.end(JSON.stringify(data);
+                                           ^
+
+SyntaxError: missing ) after argument list
+    at Module._compile (internal/modules/cjs/loader.js:721:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:829:12)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+
+C:\Users\asus\Desktop\Yeni>node express.js
+sunucu calisiyor
+{ k1: { isim: 'Ali Demir', sifre: 123, email: 'abc@xyz.com' },
+  k2:
+   { isim: 'Veli Damar', sifre: 456, email: 'veli_damar@xfg.com' },
+  k3:
+   { isim: 'ahmet demir', sifre: 777, email: 'ahmet@demir.com' } }
+^C
+C:\Users\asus\Desktop\Yeni>node express.js
+sunucu calisiyor
+{
+        "k1" :{
+                 "isim" : "Ali Demir",
+                 "sifre" :123,
+                 "email" :"abc@xyz.com"
+        },
+        "k2" :{
+                 "isim" : "Veli Damar",
+                 "sifre" :456,
+                 "email" :"veli_damar@xfg.com"
+        }
+}
+{ k1: { isim: 'Ali Demir', sifre: 123, email: 'abc@xyz.com' },
+  k2:
+   { isim: 'Veli Damar', sifre: 456, email: 'veli_damar@xfg.com' },
+  k3:
+   { isim: 'ahmet demir', sifre: 777, email: 'ahmet@demir.com' } }
+bir hata olustu
+{"k1":{"isim":"Ali Demir","sifre":123,"email":"abc@xyz.com"},"k2":{"isim":"Veli Damar","sifre":456,"email":"veli_damar@xfg.com"},"k3":{"isim":"ahmet demir","sifre":777,"email":"ahmet@demir.com"}}
+{ k1: { isim: 'Ali Demir', sifre: 123, email: 'abc@xyz.com' },
+  k2:
+   { isim: 'Veli Damar', sifre: 456, email: 'veli_damar@xfg.com' },
+  k3:
+   { isim: 'ahmet demir', sifre: 777, email: 'ahmet@demir.com' } }
+bir hata olustu
+{ k1: { isim: 'Ali Demir', sifre: 123, email: 'abc@xyz.com' },
+  k2:
+   { isim: 'Veli Damar', sifre: 456, email: 'veli_damar@xfg.com' },
+  k3:
+   { isim: 'ahmet demir', sifre: 777, email: 'ahmet@demir.com' } }
+bir hata olustu
+{ k1: { isim: 'Ali Demir', sifre: 123, email: 'abc@xyz.com' },
+  k2:
+   { isim: 'Veli Damar', sifre: 456, email: 'veli_damar@xfg.com' },
+  k3:
+   { isim: 'ahmet demir', sifre: 777, email: 'ahmet@demir.com' } }
+bir hata olustu
+{"k1":{"isim":"Ali Demir","sifre":123,"email":"abc@xyz.com"},"k2":{"isim":"Veli Damar","sifre":456,"email":"veli_damar@xfg.com"},"k3":{"isim":"ahmet demir","sifre":777,"email":"ahmet@demir.com"}}
+{ k1: { isim: 'Ali Demir', sifre: 123, email: 'abc@xyz.com' },
+  k2:
+   { isim: 'Veli Damar', sifre: 456, email: 'veli_damar@xfg.com' },
+  k3:
+   { isim: 'ahmet demir', sifre: 777, email: 'ahmet@demir.com' } }
+bir hata olustu
+^C
+C:\Users\asus\Desktop\Yeni>node express.js
+sunucu calisiyor
+{ k1: { isim: 'Ali Demir', sifre: 123, email: 'abc@xyz.com' },
+  k2:
+   { isim: 'Veli Damar', sifre: 456, email: 'veli_damar@xfg.com' },
+  k3: { isim: 'sldlmd', sifre: '123', email: 'asd@fgh.com' } }
+bir hata olustu
+{"k1":{"isim":"Ali Demir","sifre":123,"email":"abc@xyz.com"},"k2":{"isim":"Veli Damar","sifre":456,"email":"veli_damar@xfg.com"},"k3":{"isim":"sldlmd","sifre":"123","email":"asd@fgh.com"}}
+^C
+C:\Users\asus\Desktop\Yeni>node express.js
+sunucu calisiyor
+{ k1: { isim: 'Ali Demir', sifre: 123, email: 'abc@xyz.com' },
+  k2:
+   { isim: 'Veli Damar', sifre: 456, email: 'veli_damar@xfg.com' },
+  k3: { isim: undefined, sifre: undefined, email: undefined } }
+bir hata olustu
+^C
+C:\Users\asus\Desktop\Yeni>node express.js
+sunucu calisiyor
+{"k1":{"isim":"Ali Demir","sifre":123,"email":"abc@xyz.com"},
+"k2":{"isim":"Veli Damar","sifre":456,"email":"veli_damar@xfg.com"},
+"k3":{"isim":"ahmet Damar","sifre":45677,"email":"ahmet_damar@xfg.com"}
+}
+{ k1: { isim: 'Ali Demir', sifre: 123, email: 'abc@xyz.com' },
+  k3:
+   { isim: 'ahmet Damar',
+     sifre: 45677,
+     email: 'ahmet_damar@xfg.com' } }
+bir hata olustu
+{"k1":{"isim":"Ali Demir","sifre":123,"email":"abc@xyz.com"},"k3":{"isim":"ahmet Damar","sifre":45677,"email":"ahmet_damar@xfg.com"}}
+{ k1: { isim: 'Ali Demir', sifre: 123, email: 'abc@xyz.com' },
+  k3: { isim: 'selin', sifre: '098', email: 'sel@in.com' } }
+bir hata olustu
+{"k1":{"isim":"Ali Demir","sifre":123,"email":"abc@xyz.com"},"k3":{"isim":"selin","sifre":"098","email":"sel@in.com"}}
+^C
+C:\Users\asus\Desktop\Yeni>node express.js
+sunucu calisiyor
+{ isim: 'Ali Demir', sifre: 123, email: 'abc@xyz.com' }
+undefined
+{ isim: 'selin', sifre: '098', email: 'sel@in.com' }
+^C
+C:\Users\asus\Desktop\Yeni>
